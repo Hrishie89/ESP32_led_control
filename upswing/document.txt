@@ -1,0 +1,11 @@
+
+open this link :
+https://docs.google.com/document/d/1-bqs5FGy45Pf_wukwMK4KR336ICrpDXoz61Q6LV9mLk/edit#heading=h.edo3zejmlvzs
+
+
+mqtt topic name is : upswing
+
+
+components used :
+esp32 - Nodemcu (ESP-32S)
+LEDS
